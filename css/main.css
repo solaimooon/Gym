@@ -60,7 +60,7 @@ header {
 
 @keyframes anim {
   0% {
-    transform: translateX(-120px);
+    transform: translateX(-50px);
     opacity: 0;
   }
   100% {
@@ -133,7 +133,7 @@ header {
 
 @keyframes fromLeft {
   0% {
-    transform: translateX(-120px);
+    transform: translateX(-50px);
     opacity: 0;
   }
   100% {
